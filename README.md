@@ -1,4 +1,4 @@
 # CALCULATOR
-Calculator using c++ simple(do-while, if-else-if, switch case)
+Calculator using c++(do-while, if-else, & switch case)
 
-CODE BY: lusifer-ak47
+CODE BY: @nkith_00
